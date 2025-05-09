@@ -123,6 +123,3 @@ Developers can extend the search engine by modifying the **tokenization package*
 ## Contribution
 
 ❌ **Contributions are not allowed for this project.**
-
-## Quote
-"thenoobestever actually was not the noobest ever". _Mahmoud Alaaraj_
